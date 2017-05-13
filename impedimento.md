@@ -6,7 +6,7 @@ Etiquetas: aprendizaje, auto-organización, experimentos, reflexión
 
 Este capítulo es fruto de la reflexión y toma de conciencia sobre mi rol como Agile Coach y el impacto que he tenido en los equipos con los que he trabajado. Si bien (los equipos y yo) aprendimos e implementamos muchas prácticas ágiles, tengo un sentimiento de frustración por no lograr que el aprendizaje emerja. Asimismo, pretende ser una crítica hacia el engrandecimiento del rol del Agile Coach como ese Gurú que guía a las organizaciones.
 
-«Hay que ser ágiles, hay que hacer Scrum»,  alguien dice en una empresa.  A veces es un jefe o directivo, otras veces, las menos quizá, lo dice un integrante dentro de un equipo de trabajo. Desde un modelo de pensamiento rígido, el aprendizaje de las metodologías ágiles se inicia buscando a alguien que nos enseñe cómo hacerlo o trayendo expertos para que convierta en gurús a algunos miembros de la organización.
+"Hay que ser ágiles, hay que hacer Scrum", alguien dice en una empresa.  A veces es un jefe o directivo, otras veces, las menos quizá, lo dice un integrante dentro de un equipo de trabajo. Desde un modelo de pensamiento rígido, el aprendizaje de las metodologías ágiles se inicia buscando a alguien que nos enseñe cómo hacerlo o trayendo expertos para que convierta en gurús a algunos miembros de la organización.
 
 Ya sea contratando a un grupo de coaches externos o capacitando a un grupo interno, es común que los primeros contactos con la agilidad sean por medio de entrenamiento.
 
@@ -31,7 +31,7 @@ En Scrum se dice que el Scrum Master es un líder servicial: remueve impedimento
 
 Ocurre esa Ego-Agilidad que menciona Ingrid Astiz en el capítulo «¿El agilismo es una secta?»[^4] de este mismo compilado. Existe el riesgo de que aquellos Coaches empoderados y protegidos por la bandera de la agilidad, dejen de preocuparse por desarrollar un pensamiento crítico y dicten verdades a seguir, es decir, impidan el aprendizaje emergente.
 
-Veo que ese patrón se reproduce en nuestra comunidad, ya que cuanto más participo en eventos ágiles, he visto cómo algunos agilistas consagrados han sido elevados a un nivel de rockstar: se organiza un panel de expertos, comidas en los que están los másters más reconocidos, charlas en un tono de superioridad remarcando que son ellos los poseedores de la sabiduría. No quiero minimizar sus méritos y aportes a la agilidad, ellos Para que haya rockstars también se necesitan groupies. Dejemos de poner a los agilistas en un pedestal.  Entendamos lo que dicen y después desafiémoslos.
+Veo que ese patrón se reproduce en nuestra comunidad, ya que cuanto más participo en eventos ágiles, he visto cómo algunos agilistas consagrados han sido elevados a un nivel de rockstar: se organiza un panel de expertos, comidas en los que están los másters más reconocidos, charlas en un tono de superioridad remarcando que son ellos los poseedores de la sabiduría. No quiero minimizar sus méritos y aportes a la agilidad, pero para que haya rockstars también se necesitan groupies. Dejemos de poner a los agilistas en un pedestal.  Entendamos lo que dicen y después desafiémoslos.
  
 ## Entonces, ¿darles el control de su aprendizaje?
 
@@ -108,6 +108,6 @@ Si quieres conversar más sobre este tema, te invito al canal de telegram #Apren
 
 [^10]: Learning Canvas propuesto por Alexandre Magno en Learning 3.0 http://www.learning30.co/resources
 
-[^11]: Ver cuando el Arte ataque de Martín Salías, en este libro
+[^11]: Ver Cuando el Arte ataque de Martín Salías, en este libro
 
 [^12]: Open Space http://www.agiles.org/agile-open-tour-open-space-technology
