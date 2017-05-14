@@ -62,7 +62,7 @@ En este análisis usaré los niveles del lenguaje según lo descrito en *Tribal 
 
 Cada persona pueden entender el nivel de lenguje que utiliza su tribu y uno más o menos. Por ejemplo, alguien que se expresa en nivel 2, puede entender el nivel 1 y 3, pero no el nivel 4 y 5. Para llegar a la mayor cantidad de personas, como se buscaba con el Agile Manifiesto, es común y deseable que se hable con lenguaje correspondiente a varios niveles de *Tribal Leadership*. 
 
-Tanto el nombre elegido ("Manifiesto Ágil") como el texto que habla de su historia  ([http://agilemanifesto.org/history.html](http://agilemanifesto.org/history.html)) utiliza lenguaje **Nivel 5**, *“queremos cambiar el mundo”*.
+Tanto el nombre elegido ("Manifiesto Ágil") como el ([texto que habla de su historia](http://agilemanifesto.org/history.html)) utiliza lenguaje **Nivel 5**, *“queremos cambiar el mundo”*.
 
 El foco en valores (es lo primero que se lee), podría entenderse como lenguaje **Nivel 4**. Las tribus nivel 4 se identifican por sus valores compartidos. También aparece el contraste con el enemigo externo, se sienten superior a otros, que en este caso son las *Dilbertesque corporations*. Pero para los que leen el Manifiesto, los valores no necesariamente son los de su equipo o grupo, son los valores de otro grupo. Trabajar bajo valores impuestos desde fuera nos lleva a lenguaje **Nivel 3** (los que imponen sus valores) y **Nivel 2** (los que reciben los valores impuestos).
 
@@ -203,7 +203,7 @@ Joshua Kerievsky participó de una serie de talleres realizados en eventos comun
 
 ## Conclusión
 
-Estamos entrando en una zona de turbulencias, como comunidad, donde la referencia de quiénes somos o qué hacemos no es tan clara. Sin embargo, creo que cada una de las propuestas tiene valor y podemos, cada uno, empezar probando con cualquiera de ellas, ver si nos sentimos cómodos y si es útil. Sobre esa experiencia, quizás decante en un nuevo consenso. ¡Y si no, al menos no desperdiciamos tiempo discutiendo cual es "la correcta"!
+Estamos, como comunidad, entrando en una zona de turbulencias donde la referencia de quiénes somos o qué hacemos no es tan clara. Sin embargo, creo que cada una de las propuestas tiene valor y podemos, cada uno, empezar probando con cualquiera de ellas, ver si nos sentimos cómodos y si es útil. Sobre esa experiencia, quizás decante en un nuevo consenso. Y si no, ¡al menos no desperdiciamos tiempo discutiendo cual es "la correcta"!
 
 [^1]: Ver [http://softwareagil.blogspot.com.ar/2015/11/difusion-de-las-innovaciones.html](http://softwareagil.blogspot.com.ar/2015/11/difusion-de-las-innovaciones.html).
 
@@ -211,9 +211,9 @@ Estamos entrando en una zona de turbulencias, como comunidad, donde la referenci
 
 [^3]: Ver [http://alistair.cockburn.us/oath+of+non-allegiance](http://alistair.cockburn.us/oath+of+non-allegiance).
 
-[^4]: Ver el video [https://www.ted.com/talks/david_logan_on_tribal_leadership](https://www.ted.com/talks/david_logan_on_tribal_leadership) y el libro Tribal Leaderhip de Dave Logan y John King.
+[^4]: Ver video [https://www.ted.com/talks/david_logan_on_tribal_leadership](https://www.ted.com/talks/david_logan_on_tribal_leadership) y [Logan 2008].
 
-[^5]: Una descripción un poco más extensa está en [http://softwareagil.blogspot.com.ar/2009/07/artful-making.html](http://softwareagil.blogspot.com.ar/2009/07/artful-making.html) y el libro Arful making, Lee Devin y Robert D. Austin.
+[^5]: Ver [http://softwareagil.blogspot.com.ar/2009/07/artful-making.html](http://softwareagil.blogspot.com.ar/2009/07/artful-making.html) y [Austin 2003].
 
 [^6]: Corresponde al Derecho Slow #2 del capítulo "Nuestros Derechos Slow" de Thomas Wallet.
 
