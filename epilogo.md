@@ -8,8 +8,8 @@ El segundo libro surgió a partir de la intención de generar cierto contenido q
 
 Este tercer libro fue una necesidad personal de cerrar la trilogía. Pero al mismo tiempo la idea fue cerrar con una apertura, o sea, cada uno de los capítulos invita a ir más allá, a reflexionar y cuestionarnos el estado del arte para poder trascender los límites establecidos.
 
-Espero que en futuro tengamos más AOC y ojalá tangamos también más libros, pero ya no seré yo el responsable de producto. Confio en que algún otro camper tenga la energía para tomar ese rol o tal vez tenga la creatividad para plantear una forma de trabajo superadora que no requiera de un responsable de producto.
+Espero que en futuro tengamos más AOC y ojalá tengamos también más libros, pero ya no seré yo el responsable de producto. Confio en que algún otro camper tenga la energía para tomar ese rol o tal vez tenga la creatividad para plantear una forma de trabajo superadora que no requiera de un responsable de producto.
 
-Para cerrar, quiero agradecer personalmente a todos aquellos que se se sumaron a esta iniciativa: a los autores, a los colaboradores, a los organizadores de los AOC y obviamente a los lectores.
+Para cerrar, quiero agradecer personalmente a todos aquellos que se sumaron a esta iniciativa: a los autores, a los colaboradores, a los organizadores de los AOC y obviamente a los lectores.
 
 NicoPaez, Mayo 2017
