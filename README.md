@@ -2,13 +2,11 @@
 
 Por Nicolás Paez, @inicopaez
 
-Version: beta 1, 20170505
-
 ## Sobre este libro
 
 Este libro es el tercer libro de la serie Agile Open Camp. En [el primer libro](https://www.gitbook.com/book/nicopaez/libroagileaoc2015/details) escribimos sobre experiencias. Cada autor contó una historia en las que había estado involucrado. El objetivo era difundir casos del uso de métodos ágiles. La audiencia era muy amplia, a punto tal que incluímos un glosario para aquellos lectores que no estuvieran familiarizados con la agilidad.
 
-En [el segundo libro](https://www.gitbook.com/book/nicopaez/libroagileaoc2016/details) escribimos sobre herramientas. En cierto modo podría pensarse que luego de varias experiencias logramos encontrar ciertos patrones que generalizamos como técnicas y herramientas ágiles. En este caso el objetivo era proveer herramientas de apoyo para los prácticantes, para esa gente que ya se encontraba usando agile. Aquí ya no incluímos un glosario porque nuestra audiencia era gente que ya estaba familiarizada con la agilidad.
+En [el segundo libro](https://www.gitbook.com/book/nicopaez/libroagileaoc2016/details) escribimos sobre herramientas. En cierto modo podría pensarse que luego de varias experiencias logramos encontrar ciertos patrones que generalizamos como técnicas y herramientas ágiles. En este caso el objetivo era proveer herramientas de apoyo para los practicantes, para esa gente que ya se encontraba usando agile. Aquí ya no incluímos un glosario porque nuestra audiencia era gente que ya estaba familiarizada con la agilidad.
 
 En este tercer libro intentamos escribir ensayos, ideas y reflexiones con el objetivo de desafiar al lector y al orden establecido. La audiencia aquí son practicantes experimentados en agilidad y que dominan sus fundamentos.
 
@@ -29,13 +27,17 @@ Autores: Juan Gabardini, Ingrid Astiz, Rox Muñoz, Nicolás Paez, Vanesa Savino,
 
 Gráficos: Omar Fernández
 
+Arte de tapa: Mauro Strione
+
+Foto de tapa: Yamit Cárdenas
+
 Revisión: Cora Fassina y Nicolás Paez
 
 Idea y coordinación: Nicolás Paez
 
 ## Agradecimientos
 
-A María Thompson, Tomás Christie y Natalia Baeza, por su colaboración a lo largo de el proceso de escritura y edición del libro.
+A María Thompson, Tomás Christie y Natalia Baeza, por su colaboración a lo largo del proceso de escritura y edición del libro.
 A los sponsors de los Agile Open Camp 2017 (Chile y Argentina), cuyo apoyo fue fundamental para la realización de ambos eventos.
 
 * Sinnplify
