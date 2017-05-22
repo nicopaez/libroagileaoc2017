@@ -1,16 +1,20 @@
 # Referencias
 
-[Agile Manifesto] agilemanifesto.org
-
 [Adzik 2011] Adzik G., Specification by Example: How Successful Teams Deliver the Right Software, Manning Publications, 2011
 
 [Adzik 2012] Adzik G., Impact Mapping: Making a big impact with software products and projects, Provoking Thoughts, 2012
+
+[Agile Manifesto] agilemanifesto.org
+
+[Alistair 2001] Alistair, C. Shu Ha Ri, disponible en línea: http://alistair.cockburn.us/Shu+Ha+Ri, como estaba en Febrero de 2017
 
 [Austin 2003] Austin Robert D. & Devin Lee, Arful making, FT Press, 2003.
 
 [Burkeman 2016] Burkeman O., Why time management is ruining our lives, disponible en l&iacute;nea: https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives, como estaba en abril del 2017
 
 [Cittaslow] Cittaslow - http://www.cittaslow.org/ 
+
+[CSM 2017] Certified ScrumMaster&reg; (CSM), disponible en linea: https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm, como estaba en Febrero de 2017
 
 [Domenech 2013] Domenech F.J., Elogio de la educaci&oacute;n lenta, Gra&oacute;, 2013
 
@@ -36,6 +40,12 @@
 
 [Pichler 2012] Pichler R., The product canvas, disponible en l&iacute;nea: http://www.romanpichler.com/blog/the-product-canvas/, como estaba en abril del 2017
 
+[PMBok 2017] PMBOK&reg; Guide and Standards, disponible en linea: https://www.pmi.org/pmbok-guide-standards, como estaba en Febrero de 2017
+
+[PMI 2017] Project Management Institute, disponible en linea: http://www.pmi.org.ar/, como estaba en Febrero de 2017
+
+[PMP 2017] Project Management Professional (PMP)&reg;, disponible en linea: https://www.pmi.org/certifications/types/project-management-pmp, como estaba en Febrero de 2017
+
 [Rasmusson 2010] Rasmusson J., The Agile Samurai: How Agile Masters Deliver Great Software, The Pragmatic Programmers, 2010
 
 [Slow Food] Slow Food - http://www.slowfood.com/
@@ -49,13 +59,3 @@
 [Woodyard 2011] Woodyard C., Exploring the therapeutic effects of yoga and its ability to increase quality of life, Int J Yoga, 2011
 
 [Zavalloni 2011] Zavalloni G., La Pedagog&iacute;a del Caracol, Gra&oacute;, 2011
-
-[Alistair 2001] Alistair, C. Shu Ha Ri, disponible en línea: http://alistair.cockburn.us/Shu+Ha+Ri, como estaba en Febrero de 2017
-
-[PMI 2017] Project Management Institute, disponible en linea: http://www.pmi.org.ar/, como estaba en Febrero de 2017
-
-[PMP 2017] Project Management Professional (PMP)&reg;, disponible en linea: https://www.pmi.org/certifications/types/project-management-pmp, como estaba en Febrero de 2017
-
-[PMBok 2017] PMBOK&reg; Guide and Standards, disponible en linea: https://www.pmi.org/pmbok-guide-standards, como estaba en Febrero de 2017
-
-[CSM 2017] Certified ScrumMaster&reg; (CSM), disponible en linea: https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm, como estaba en Febrero de 2017
