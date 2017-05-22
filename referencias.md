@@ -6,6 +6,8 @@
 
 [Adzik 2012] Adzik G., Impact Mapping: Making a big impact with software products and projects, Provoking Thoughts, 2012
 
+[Austin 2003] Austin Robert D. & Devin Lee, Arful making, FT Press, 2003.
+
 [Burkeman 2016] Burkeman O., Why time management is ruining our lives, disponible en l&iacute;nea: https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives, como estaba en abril del 2017
 
 [Cittaslow] Cittaslow - http://www.cittaslow.org/ 
@@ -23,6 +25,8 @@
 [Honor&eacute; 2013] Honor&eacute; C., Elogio de la lentitud, RBA, 2013
 
 [Imai 1995] Imai M., Genba Kaizen, McGraw-Hill, 1995
+
+[Logan 2008]  Logan Dav & King John, Tribal Leaderhip, HarperCollins, 2008
 
 [Moore 2004] Moore Geoffrey A., "Inside the Tornado: Strategies for Developing, Leveraging, and Surviving Hypergrowth Markets", HarperBusiness, 2004
 
